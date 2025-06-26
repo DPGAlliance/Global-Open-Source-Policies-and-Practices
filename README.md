@@ -1,4 +1,4 @@
-# Global Open Source Policies and Practices
+# Global Open-Source Policies and Practices
 
 Take or share the survey to help advance open-source policies and practices globally.
 
